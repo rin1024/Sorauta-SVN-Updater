@@ -28,6 +28,8 @@ use SVN::Agent::Dummy;
 use File::Copy::Recursive qw/dircopy/;
 use Sorauta::Utility;
 
+our $VERSION = '0.01';
+
 __PACKAGE__->mk_accessors(
   qw/repository_url work_dir_path tmp_dir_path os debug/);
 
