@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Sorauta-SVN-Updater.t
+lib/Sorauta/SVN/Updater.pm
+lib/SVN/Agent/Dummy.pm
